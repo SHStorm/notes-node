@@ -1,0 +1,15 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "SHStorm",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "yargs": "^13.2.1"
+  }
+}
